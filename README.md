@@ -1,4 +1,4 @@
-                                                   Hi there, I'm Omar Abdilbasit👋(h1)
+                                                   #Hi there, I'm Omar Abdilbasit👋
 
  
 
