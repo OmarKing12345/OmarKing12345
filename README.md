@@ -1,7 +1,4 @@
 #                           <p align="center">                   Hi there, I'm Omar Abdilbasit👋</p>
-
-
-
  <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="80" height="80"/>
 
