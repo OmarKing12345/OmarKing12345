@@ -5,6 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="80" height="80"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".NET" width="80" height="80"/>
+ <img src=" https://raw.githubusercontent.com/sandeepnkulkarni/dotnetcore-tutorials/master/assets/img/dotnetcore_logo_medium.png".NET" width="80" height="80"/>
     
 </p>
 
